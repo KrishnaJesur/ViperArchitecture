@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViperArchitecture</string>
+    <string name="detail_title">Joke Detail</string>
+    <string name="empty_data">Oops! Something went wrong</string>
+</resources>
